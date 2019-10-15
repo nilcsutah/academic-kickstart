@@ -32,7 +32,7 @@ education:
   - course: PhD in Computer Engineering
     institution: University of Utah
     year: 2012
-  - course: BEngg in Computer Science
+  - course: BE in Computer Science
     institution: Jadavpur University
     year: 2007
 
@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-I am a computer architect working as a senior research scientist at NVIDIA. My research interests include high-performance computer architecture, memory system design, and hardware architectures for emerging workloads. At NVIDIA, I work in the Architecture Research Group developing compute platforms to realize and accelerate the next generation of artificial intelligence and scientific computing applications. 
+I am a computer architect at NVIDIA. My research interests include high-performance computer architecture, memory system design, and hardware architectures for emerging workloads. At NVIDIA, I work in the Architecture Research Group developing compute platforms to realize and accelerate the next generation of artificial intelligence and scientific computing applications. 
 
 My key research contributions have been in the field of main memory architectures where I have developed techniques that help surpass evolutionary performance and energy-efficiency improvements of DRAM technology. 
 
